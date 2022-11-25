@@ -67,7 +67,7 @@ do
     --disable-save-password-bubble \
     --disable-session-crashed-bubble \
     --incognito \
-    --kiosk "https://neave.tv/"
+    --kiosk "http://localhost:7000/"
   sleep 5
 done &
 EOF
